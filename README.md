@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cadastro de Livros
+
+_Objetivo_: Projeto para cadastro de livros em React.JS
+
+_Feito por_: [Luiz Gustavo Bragança dos Santos](https://github.com/Luizgustavo358)
 
 ## Available Scripts
 
