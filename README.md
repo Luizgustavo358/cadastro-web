@@ -1,9 +1,11 @@
 # Bookstore
 
-_Objetivo_: Bookstore Project. 
+Bookstore Project. We use React.js and Node.js
 
-_Author_: [Luiz Gustavo Bragança dos Santos](https://github.com/Luizgustavo358)
-_Coauthor_: [Ricardo Xavier Sena](https://github.com/KakaSena)
+## Contributors
+
+[Luiz Gustavo Bragança dos Santos](https://github.com/Luizgustavo358) | [Ricardo Xavier Sena](https://github.com/KakaSena)
+
 
 ## Getting this to work
 
